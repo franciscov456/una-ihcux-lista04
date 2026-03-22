@@ -50,4 +50,7 @@ O usuário continua usando normalmente.
 
 A prevenção melhora quando você orienta o usuário dentro do catch: Console.WriteLine("Você digitou um valor inválido. Tente novamente usando apenas números.");
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a8bf4038-0df4-4aeb-bbd5-a884b3f47625" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee40da61-7e8c-4d89-99bb-fbf30948af0b" />
 
